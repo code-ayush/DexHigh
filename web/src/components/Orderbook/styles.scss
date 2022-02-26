@@ -1,0 +1,48 @@
+.orderbook {
+    .header,
+    .status {
+        height: 40px;
+        line-height: 40px;
+    }
+    .asks,
+    .bids {
+        min-height: 120px;
+    }
+    .ask,
+    .bid {
+        min-height: 24px;
+        position: relative;
+    }
+    .button {
+        border: 0px;
+        background: transparent;
+        outline: none;
+        padding: 8px 12px;
+    }
+    .buttonActive {
+        border: 0px;
+        background: transparent;
+        outline: none;
+        border-bottom: 3px solid rgb(82, 90, 238);
+        color: rgb(82, 90, 238);
+        padding: 8px 12px;
+    }
+    .askBar {
+        top: 0;
+        position: absolute;
+        z-index: 0;
+        bottom: 0;
+        left: 0;
+        width: 100%;
+        background-color: rgba(0, 151, 19, 0.1);
+    }
+    .bidBar {
+        top: 0;
+        position: absolute;
+        z-index: 0;
+        bottom: 0;
+        left: 0;
+        width: 100%;
+        background-color: rgba(255, 51, 51, 0.1);
+    }
+}
