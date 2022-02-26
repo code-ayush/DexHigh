@@ -29,11 +29,11 @@ If you don't already have them installed, you can follow [this link](https://doc
 
 1.  **Clone this repo**
 
-        git clone https://github.com/hydroprotocol/hydro-scaffold-dex.git
+        git clone https://github.com/code-ayush/DexHigh
 
 1.  **Change your working directory**
 
-        cd hydro-scaffold-dex
+        cd DexHigh
 
 1.  **Build and launch your hydro relayer**
 
