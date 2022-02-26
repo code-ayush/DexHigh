@@ -29,7 +29,7 @@ If you don't already have them installed, you can follow [this link](https://doc
 
 1.  **Clone this repo**
 
-        git clone https://github.com/code-ayush/DexHigh
+        git clone https://github.com/code-ayush/DexHigh.git
 
 1.  **Change your working directory**
 
